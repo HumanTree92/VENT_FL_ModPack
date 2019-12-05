@@ -18,7 +18,7 @@ This is a Mod Pack for Flashing Lights that Velociti Entertainment uses.
 4) Follow the Tutorial
 
 # Faster Download & Install:
-1) [Download This](https://drive.google.com/open?id=16GKkj4vSpbPDkpR7PPMe0HGnIWu6yRnp)
+1) [Download This](https://drive.google.com/open?id=1apsk0EQnbEbXRygFicDzjaSnkN_jA65h)
 2) Go to Steam > steamapps > common > Flashing Lights > flashinglights_Data
 3) Make a Backup of resources.assets
 4) Copy the Downloaded resources.assets
