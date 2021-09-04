@@ -42,7 +42,6 @@ This is a Mod Pack for Flashing Lights that Velociti Entertainment uses.
 	* Veh_Tow-01
 
 # Visit Velociti Entertainment:
-* TS3 - ts3.velocitientertainment.com
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
 * [Forums](http://velocitientertainment.com/forum)
@@ -59,7 +58,7 @@ This is a Mod Pack for Flashing Lights that Velociti Entertainment uses.
 ### License
 VENT_FL_ModPack - Mod Pack for Flashing Lights.
 
-Copyright (C) 2011-2020 Velociti Entertainment
+Copyright (C) 2011-2021 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
